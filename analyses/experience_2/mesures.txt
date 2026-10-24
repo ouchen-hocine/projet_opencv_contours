@@ -1,0 +1,323 @@
+Nombre de couples image / reference : 40
+
+IMAGE DE REGLAGE : golfcart (32/40)
+[Sobel | seuil=110 noyau=3 sigma=1] -> P = 0.322 | TFP = 0.521 | TFN = 0.157
+[Sobel | seuil=110 noyau=3 sigma=1] -> P = 0.322 | TFP = 0.521 | TFN = 0.157
+[Sobel | seuil=110 noyau=3 sigma=1] -> P = 0.322 | TFP = 0.521 | TFN = 0.157
+[Sobel | seuil=110 noyau=3 sigma=1] -> P = 0.322 | TFP = 0.521 | TFN = 0.157
+[Sobel | seuil=110 noyau=3 sigma=1] -> P = 0.322 | TFP = 0.521 | TFN = 0.157
+[Sobel | seuil=110 noyau=3 sigma=1] -> P = 0.322 | TFP = 0.521 | TFN = 0.157
+[Sobel | seuil=110 noyau=3 sigma=1] -> P = 0.322 | TFP = 0.521 | TFN = 0.157
+
+=== MODE INTERACTIF ===
+1. Curseur 'Image' : choisis une photo parmi les 40 (son nom est affiche sur l'image).
+2. Regle Sobel, Laplace et Canny, puis verifie les memes valeurs
+   sur plusieurs images avec le curseur 'Image'.
+3. Appuie sur ESPACE ou S dans une fenetre OpenCV pour lancer le lot.
+   Appuie sur Q ou ECHAP pour quitter sans traitement.
+[Sobel | seuil=112 noyau=3 sigma=1] -> P = 0.325 | TFP = 0.511 | TFN = 0.164
+[Sobel | seuil=117 noyau=3 sigma=1] -> P = 0.329 | TFP = 0.488 | TFN = 0.183
+[Sobel | seuil=123 noyau=3 sigma=1] -> P = 0.334 | TFP = 0.459 | TFN = 0.207
+[Sobel | seuil=134 noyau=3 sigma=1] -> P = 0.338 | TFP = 0.407 | TFN = 0.255
+[Sobel | seuil=142 noyau=3 sigma=1] -> P = 0.338 | TFP = 0.374 | TFN = 0.289
+[Sobel | seuil=145 noyau=3 sigma=1] -> P = 0.336 | TFP = 0.362 | TFN = 0.302
+[Sobel | seuil=152 noyau=3 sigma=1] -> P = 0.330 | TFP = 0.336 | TFN = 0.334
+[Sobel | seuil=155 noyau=3 sigma=1] -> P = 0.328 | TFP = 0.325 | TFN = 0.347
+[Sobel | seuil=159 noyau=3 sigma=1] -> P = 0.326 | TFP = 0.309 | TFN = 0.366
+[Sobel | seuil=169 noyau=3 sigma=1] -> P = 0.316 | TFP = 0.278 | TFN = 0.406
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=184 noyau=3 sigma=1] -> P = 0.295 | TFP = 0.237 | TFN = 0.468
+[Sobel | seuil=190 noyau=3 sigma=1] -> P = 0.284 | TFP = 0.220 | TFN = 0.496
+[Sobel | seuil=194 noyau=3 sigma=1] -> P = 0.276 | TFP = 0.209 | TFN = 0.515
+[Sobel | seuil=205 noyau=3 sigma=1] -> P = 0.255 | TFP = 0.183 | TFN = 0.562
+[Sobel | seuil=215 noyau=3 sigma=1] -> P = 0.236 | TFP = 0.159 | TFN = 0.605
+[Sobel | seuil=222 noyau=3 sigma=1] -> P = 0.224 | TFP = 0.144 | TFN = 0.632
+[Sobel | seuil=226 noyau=3 sigma=1] -> P = 0.217 | TFP = 0.137 | TFN = 0.647
+[Sobel | seuil=230 noyau=3 sigma=1] -> P = 0.209 | TFP = 0.130 | TFN = 0.661
+[Sobel | seuil=236 noyau=3 sigma=1] -> P = 0.198 | TFP = 0.120 | TFN = 0.682
+[Sobel | seuil=237 noyau=3 sigma=1] -> P = 0.197 | TFP = 0.118 | TFN = 0.685
+[Sobel | seuil=239 noyau=3 sigma=1] -> P = 0.194 | TFP = 0.115 | TFN = 0.691
+[Sobel | seuil=240 noyau=3 sigma=1] -> P = 0.192 | TFP = 0.114 | TFN = 0.694
+[Sobel | seuil=241 noyau=3 sigma=1] -> P = 0.191 | TFP = 0.112 | TFN = 0.697
+[Sobel | seuil=243 noyau=3 sigma=1] -> P = 0.187 | TFP = 0.109 | TFN = 0.704
+[Sobel | seuil=244 noyau=3 sigma=1] -> P = 0.184 | TFP = 0.108 | TFN = 0.708
+[Sobel | seuil=246 noyau=3 sigma=1] -> P = 0.181 | TFP = 0.105 | TFN = 0.713
+[Sobel | seuil=247 noyau=3 sigma=1] -> P = 0.179 | TFP = 0.104 | TFN = 0.717
+[Sobel | seuil=248 noyau=3 sigma=1] -> P = 0.178 | TFP = 0.103 | TFN = 0.719
+[Sobel | seuil=250 noyau=3 sigma=1] -> P = 0.175 | TFP = 0.099 | TFN = 0.726
+[Sobel | seuil=251 noyau=3 sigma=1] -> P = 0.174 | TFP = 0.099 | TFN = 0.728
+[Sobel | seuil=250 noyau=3 sigma=1] -> P = 0.175 | TFP = 0.099 | TFN = 0.726
+[Sobel | seuil=247 noyau=3 sigma=1] -> P = 0.179 | TFP = 0.104 | TFN = 0.717
+[Sobel | seuil=244 noyau=3 sigma=1] -> P = 0.184 | TFP = 0.108 | TFN = 0.708
+[Sobel | seuil=241 noyau=3 sigma=1] -> P = 0.191 | TFP = 0.112 | TFN = 0.697
+[Sobel | seuil=237 noyau=3 sigma=1] -> P = 0.197 | TFP = 0.118 | TFN = 0.685
+[Sobel | seuil=232 noyau=3 sigma=1] -> P = 0.204 | TFP = 0.126 | TFN = 0.669
+[Sobel | seuil=227 noyau=3 sigma=1] -> P = 0.215 | TFP = 0.136 | TFN = 0.650
+[Sobel | seuil=219 noyau=3 sigma=1] -> P = 0.229 | TFP = 0.150 | TFN = 0.621
+[Sobel | seuil=218 noyau=3 sigma=1] -> P = 0.231 | TFP = 0.153 | TFN = 0.616
+[Sobel | seuil=213 noyau=3 sigma=1] -> P = 0.240 | TFP = 0.163 | TFN = 0.597
+[Sobel | seuil=212 noyau=3 sigma=1] -> P = 0.242 | TFP = 0.166 | TFN = 0.593
+[Sobel | seuil=211 noyau=3 sigma=1] -> P = 0.244 | TFP = 0.168 | TFN = 0.587
+[Sobel | seuil=209 noyau=3 sigma=1] -> P = 0.248 | TFP = 0.173 | TFN = 0.579
+[Sobel | seuil=208 noyau=3 sigma=1] -> P = 0.250 | TFP = 0.176 | TFN = 0.574
+[Sobel | seuil=207 noyau=3 sigma=1] -> P = 0.251 | TFP = 0.178 | TFN = 0.571
+[Sobel | seuil=205 noyau=3 sigma=1] -> P = 0.255 | TFP = 0.183 | TFN = 0.562
+[Sobel | seuil=204 noyau=3 sigma=1] -> P = 0.257 | TFP = 0.185 | TFN = 0.558
+[Sobel | seuil=202 noyau=3 sigma=1] -> P = 0.260 | TFP = 0.190 | TFN = 0.550
+[Sobel | seuil=201 noyau=3 sigma=1] -> P = 0.263 | TFP = 0.192 | TFN = 0.546
+[Sobel | seuil=200 noyau=3 sigma=1] -> P = 0.264 | TFP = 0.195 | TFN = 0.542
+[Sobel | seuil=198 noyau=3 sigma=1] -> P = 0.268 | TFP = 0.199 | TFN = 0.533
+[Sobel | seuil=197 noyau=3 sigma=1] -> P = 0.269 | TFP = 0.201 | TFN = 0.529
+[Sobel | seuil=195 noyau=3 sigma=1] -> P = 0.274 | TFP = 0.206 | TFN = 0.520
+[Sobel | seuil=194 noyau=3 sigma=1] -> P = 0.276 | TFP = 0.209 | TFN = 0.515
+[Sobel | seuil=193 noyau=3 sigma=1] -> P = 0.279 | TFP = 0.211 | TFN = 0.510
+[Sobel | seuil=191 noyau=3 sigma=1] -> P = 0.282 | TFP = 0.217 | TFN = 0.501
+[Sobel | seuil=190 noyau=3 sigma=1] -> P = 0.284 | TFP = 0.220 | TFN = 0.496
+[Sobel | seuil=188 noyau=3 sigma=1] -> P = 0.288 | TFP = 0.226 | TFN = 0.486
+[Sobel | seuil=187 noyau=3 sigma=1] -> P = 0.291 | TFP = 0.228 | TFN = 0.480
+[Sobel | seuil=186 noyau=3 sigma=1] -> P = 0.293 | TFP = 0.231 | TFN = 0.476
+[Sobel | seuil=184 noyau=3 sigma=1] -> P = 0.295 | TFP = 0.237 | TFN = 0.468
+[Sobel | seuil=183 noyau=3 sigma=1] -> P = 0.297 | TFP = 0.240 | TFN = 0.463
+[Sobel | seuil=181 noyau=3 sigma=1] -> P = 0.300 | TFP = 0.245 | TFN = 0.455
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Sobel | seuil=180 noyau=3 sigma=1] -> P = 0.302 | TFP = 0.247 | TFN = 0.451
+[Canny | bas=108 haut=180 noyau=3 sigma=1] -> P = 0.484 | TFP = 0.182 | TFN = 0.335
+[Canny | bas=106 haut=180 noyau=3 sigma=1] -> P = 0.484 | TFP = 0.188 | TFN = 0.328
+[Canny | bas=108 haut=180 noyau=3 sigma=1] -> P = 0.484 | TFP = 0.182 | TFN = 0.335
+[Canny | bas=109 haut=180 noyau=3 sigma=1] -> P = 0.484 | TFP = 0.182 | TFN = 0.335
+[Canny | bas=110 haut=180 noyau=3 sigma=1] -> P = 0.483 | TFP = 0.175 | TFN = 0.341
+[Canny | bas=111 haut=180 noyau=3 sigma=1] -> P = 0.483 | TFP = 0.175 | TFN = 0.341
+[Canny | bas=113 haut=180 noyau=3 sigma=1] -> P = 0.483 | TFP = 0.171 | TFN = 0.346
+[Canny | bas=112 haut=180 noyau=3 sigma=1] -> P = 0.483 | TFP = 0.171 | TFN = 0.346
+[Canny | bas=111 haut=180 noyau=3 sigma=1] -> P = 0.483 | TFP = 0.175 | TFN = 0.341
+[Canny | bas=110 haut=180 noyau=3 sigma=1] -> P = 0.483 | TFP = 0.175 | TFN = 0.341
+[Canny | bas=109 haut=180 noyau=3 sigma=1] -> P = 0.484 | TFP = 0.182 | TFN = 0.335
+[Canny | bas=110 haut=180 noyau=3 sigma=1] -> P = 0.483 | TFP = 0.175 | TFN = 0.341
+[Canny | bas=110 haut=179 noyau=3 sigma=1] -> P = 0.482 | TFP = 0.180 | TFN = 0.338
+[Canny | bas=110 haut=182 noyau=3 sigma=1] -> P = 0.486 | TFP = 0.171 | TFN = 0.344
+[Canny | bas=110 haut=191 noyau=3 sigma=1] -> P = 0.490 | TFP = 0.158 | TFN = 0.353
+[Canny | bas=110 haut=201 noyau=3 sigma=1] -> P = 0.482 | TFP = 0.146 | TFN = 0.372
+[Canny | bas=110 haut=207 noyau=3 sigma=1] -> P = 0.481 | TFP = 0.140 | TFN = 0.380
+[Canny | bas=110 haut=211 noyau=3 sigma=1] -> P = 0.477 | TFP = 0.135 | TFN = 0.388
+[Canny | bas=110 haut=216 noyau=3 sigma=1] -> P = 0.473 | TFP = 0.129 | TFN = 0.398
+[Canny | bas=110 haut=218 noyau=3 sigma=1] -> P = 0.473 | TFP = 0.127 | TFN = 0.400
+[Canny | bas=110 haut=219 noyau=3 sigma=1] -> P = 0.473 | TFP = 0.127 | TFN = 0.400
+[Canny | bas=110 haut=220 noyau=3 sigma=1] -> P = 0.468 | TFP = 0.126 | TFN = 0.406
+[Canny | bas=110 haut=221 noyau=3 sigma=1] -> P = 0.468 | TFP = 0.126 | TFN = 0.406
+[Canny | bas=110 haut=223 noyau=3 sigma=1] -> P = 0.470 | TFP = 0.122 | TFN = 0.408
+[Canny | bas=110 haut=224 noyau=3 sigma=1] -> P = 0.463 | TFP = 0.118 | TFN = 0.419
+[Canny | bas=110 haut=225 noyau=3 sigma=1] -> P = 0.463 | TFP = 0.118 | TFN = 0.419
+[Canny | bas=110 haut=224 noyau=3 sigma=1] -> P = 0.463 | TFP = 0.118 | TFN = 0.419
+[Canny | bas=110 haut=223 noyau=3 sigma=1] -> P = 0.470 | TFP = 0.122 | TFN = 0.408
+[Canny | bas=110 haut=221 noyau=3 sigma=1] -> P = 0.468 | TFP = 0.126 | TFN = 0.406
+[Canny | bas=110 haut=220 noyau=3 sigma=1] -> P = 0.468 | TFP = 0.126 | TFN = 0.406
+[Canny | bas=110 haut=219 noyau=3 sigma=1] -> P = 0.473 | TFP = 0.127 | TFN = 0.400
+[Canny | bas=110 haut=218 noyau=3 sigma=1] -> P = 0.473 | TFP = 0.127 | TFN = 0.400
+[Canny | bas=110 haut=219 noyau=3 sigma=1] -> P = 0.473 | TFP = 0.127 | TFN = 0.400
+[Canny | bas=110 haut=220 noyau=3 sigma=1] -> P = 0.468 | TFP = 0.126 | TFN = 0.406
+[Canny | bas=110 haut=221 noyau=3 sigma=1] -> P = 0.468 | TFP = 0.126 | TFN = 0.406
+[Canny | bas=110 haut=223 noyau=3 sigma=1] -> P = 0.470 | TFP = 0.122 | TFN = 0.408
+[Canny | bas=110 haut=221 noyau=3 sigma=1] -> P = 0.468 | TFP = 0.126 | TFN = 0.406
+[Canny | bas=110 haut=220 noyau=3 sigma=1] -> P = 0.468 | TFP = 0.126 | TFN = 0.406
+[Canny | bas=110 haut=219 noyau=3 sigma=1] -> P = 0.473 | TFP = 0.127 | TFN = 0.400
+[Canny | bas=110 haut=220 noyau=3 sigma=1] -> P = 0.468 | TFP = 0.126 | TFN = 0.406
+
+============================================================================================================
+TRAITEMENT PAR LOT - Sobel | seuil=180 noyau=3 sigma=1
+Sauvegarde dans : resultats/sobel/
+============================================================================================================
+Image                 Detectes    Reference   Corrects    FP        FN        Perf (P)  TFP       TFN       
+------------------------------------------------------------------------------------------------------------
+basket                7344        6938        2213        5131      4725      0.183     0.425     0.391     
+bear                  1109        2395        527         582       1868      0.177     0.195     0.627     
+bear_2                1104        5978        537         567       5441      0.082     0.087     0.831     
+bear_3                3063        4061        695         2368      3366      0.108     0.368     0.524     
+bear_4                5353        2863        1228        4125      1635      0.176     0.590     0.234     
+bear_5                1496        2848        506         990       2342      0.132     0.258     0.610     
+bear_6                8272        4304        931         7341      3373      0.080     0.630     0.290     
+bear_7                13325       3303        924         12401     2379      0.059     0.790     0.151     
+bear_8                4169        3012        716         3453      2296      0.111     0.534     0.355     
+bears                 2174        3537        815         1359      2722      0.166     0.278     0.556     
+brush                 3197        8675        1233        1964      7442      0.116     0.185     0.700     
+buffalo               11407       11315       5175        6232      6140      0.295     0.355     0.350     
+buffalo_2             6684        6781        2571        4113      4210      0.236     0.378     0.386     
+elephant              5375        11052       2864        2511      8188      0.211     0.185     0.604     
+elephant_2            993         4613        640         353       3973      0.129     0.071     0.800     
+elephant_3            1272        3291        709         563       2582      0.184     0.146     0.670     
+elephant_4            4925        7848        2485        2440      5363      0.242     0.237     0.521     
+elephants             4753        6225        1977        2776      4248      0.220     0.308     0.472     
+elephants_2           2041        7566        1246        795       6320      0.149     0.095     0.756     
+gazelle               3123        8878        1679        1444      7199      0.163     0.140     0.697     
+gazelle_2             6031        6632        2408        3623      4224      0.235     0.353     0.412     
+gnu                   5167        6056        2517        2650      3539      0.289     0.304     0.407     
+gnu_2                 1831        5064        842         989       4222      0.139     0.163     0.698     
+goat                  2930        7009        1581        1349      5428      0.189     0.161     0.649     
+goat_2                4220        6360        1473        2747      4887      0.162     0.302     0.537     
+goat_3                1874        3814        986         888       2828      0.210     0.189     0.601     
+goat_4                1153        4326        685         468       3641      0.143     0.098     0.759     
+goat_5                295         3858        133         162       3725      0.033     0.040     0.927     
+goat_6                3780        3050        1208        2572      1842      0.215     0.457     0.328     
+goat_7                7767        4641        2407        5360      2234      0.241     0.536     0.223     
+goat_8                3911        5552        1415        2496      4137      0.176     0.310     0.514     
+golfcart              8321        11409       4572        3749      6837      0.302     0.247     0.451     
+hyena                 6840        4392        2820        4020      1572      0.335     0.478     0.187     
+lions                 6905        9005        3071        3834      5934      0.239     0.299     0.462     
+rino                  558         3414        428         130       2986      0.121     0.037     0.843     
+rino_2                9063        5694        2386        6677      3308      0.193     0.540     0.267     
+rino_3                6061        5192        2202        3859      2990      0.243     0.426     0.330     
+tiger                 1937        4773        876         1061      3897      0.150     0.182     0.668     
+tire                  10268       9653        4208        6060      5445      0.268     0.386     0.347     
+turtle                2877        4220        1322        1555      2898      0.229     0.269     0.502     
+------------------------------------------------------------------------------------------------------------
+MOYENNE SUR 40 IMAGES :                                                       0.183     0.301     0.516     
+============================================================================================================
+
+
+============================================================================================================
+TRAITEMENT PAR LOT - Laplace | contraste=40 noyau=3 sigma=1
+Sauvegarde dans : resultats/laplace/
+============================================================================================================
+Image                 Detectes    Reference   Corrects    FP        FN        Perf (P)  TFP       TFN       
+------------------------------------------------------------------------------------------------------------
+basket                13303       6938        2708        10595     4230      0.154     0.604     0.241     
+bear                  1860        2395        855         1005      1540      0.251     0.296     0.453     
+bear_2                1411        5978        955         456       5023      0.148     0.071     0.781     
+bear_3                4772        4061        1032        3740      3029      0.132     0.479     0.388     
+bear_4                7803        2863        1540        6263      1323      0.169     0.686     0.145     
+bear_5                2386        2848        772         1614      2076      0.173     0.362     0.465     
+bear_6                11399       4304        1249        10150     3055      0.086     0.702     0.211     
+bear_7                16374       3303        1284        15090     2019      0.070     0.820     0.110     
+bear_8                7605        3012        896         6709      2116      0.092     0.690     0.218     
+bears                 3579        3537        1324        2255      2213      0.229     0.389     0.382     
+brush                 4645        8675        1530        3115      7145      0.130     0.264     0.606     
+buffalo               12687       11315       6182        6505      5133      0.347     0.365     0.288     
+buffalo_2             8586        6781        3244        5342      3537      0.268     0.441     0.292     
+elephant              5246        11052       4015        1231      7037      0.327     0.100     0.573     
+elephant_2            1097        4613        882         215       3731      0.183     0.045     0.773     
+elephant_3            1221        3291        968         253       2323      0.273     0.071     0.655     
+elephant_4            5697        7848        3267        2430      4581      0.318     0.236     0.446     
+elephants             3042        6225        2265        777       3960      0.323     0.111     0.566     
+elephants_2           2871        7566        1881        990       5685      0.220     0.116     0.664     
+gazelle               3964        8878        2527        1437      6351      0.245     0.139     0.616     
+gazelle_2             7396        6632        2926        4470      3706      0.264     0.403     0.334     
+gnu                   5071        6056        3209        1862      2847      0.405     0.235     0.360     
+gnu_2                 1756        5064        1175        581       3889      0.208     0.103     0.689     
+goat                  4178        7009        2387        1791      4622      0.271     0.204     0.525     
+goat_2                6887        6360        2216        4671      4144      0.201     0.423     0.376     
+goat_3                2930        3814        1393        1537      2421      0.260     0.287     0.452     
+goat_4                1984        4326        1234        750       3092      0.243     0.148     0.609     
+goat_5                796         3858        332         464       3526      0.077     0.107     0.816     
+goat_6                7069        3050        1586        5483      1464      0.186     0.643     0.172     
+goat_7                7794        4641        2564        5230      2077      0.260     0.530     0.210     
+goat_8                5752        5552        2011        3741      3541      0.216     0.403     0.381     
+golfcart              6554        11409       5217        1337      6192      0.409     0.105     0.486     
+hyena                 5409        4392        3030        2379      1362      0.447     0.351     0.201     
+lions                 7744        9005        3721        4023      5284      0.286     0.309     0.406     
+rino                  818         3414        666         152       2748      0.187     0.043     0.771     
+rino_2                11497       5694        2784        8713      2910      0.193     0.605     0.202     
+rino_3                8518        5192        2574        5944      2618      0.231     0.534     0.235     
+tiger                 2766        4773        1216        1550      3557      0.192     0.245     0.563     
+tire                  7752        9653        4441        3311      5212      0.343     0.255     0.402     
+turtle                2926        4220        1600        1326      2620      0.288     0.239     0.472     
+------------------------------------------------------------------------------------------------------------
+MOYENNE SUR 40 IMAGES :                                                       0.233     0.329     0.438     
+============================================================================================================
+
+
+============================================================================================================
+TRAITEMENT PAR LOT - Canny | bas=110 haut=220 noyau=3 sigma=1
+Sauvegarde dans : resultats/canny/
+============================================================================================================
+Image                 Detectes    Reference   Corrects    FP        FN        Perf (P)  TFP       TFN       
+------------------------------------------------------------------------------------------------------------
+basket                22545       6938        3494        19051     3444      0.134     0.733     0.133     
+bear                  2221        2395        1186        1035      1209      0.346     0.302     0.352     
+bear_2                1471        5978        1009        462       4969      0.157     0.072     0.772     
+bear_3                6244        4061        1226        5018      2835      0.135     0.553     0.312     
+bear_4                9301        2863        1741        7560      1122      0.167     0.725     0.108     
+bear_5                3558        2848        1119        2439      1729      0.212     0.461     0.327     
+bear_6                15393       4304        1580        13813     2724      0.087     0.762     0.150     
+bear_7                20303       3303        1636        18667     1667      0.074     0.850     0.076     
+bear_8                11973       3012        1121        10852     1891      0.081     0.783     0.136     
+bears                 5161        3537        1788        3373      1749      0.259     0.488     0.253     
+brush                 7666        8675        2376        5290      6299      0.170     0.379     0.451     
+buffalo               15234       11315       6969        8265      4346      0.356     0.422     0.222     
+buffalo_2             11987       6781        3972        8015      2809      0.268     0.542     0.190     
+elephant              6263        11052       4682        1581      6370      0.371     0.125     0.504     
+elephant_2            1362        4613        1139        223       3474      0.236     0.046     0.718     
+elephant_3            1553        3291        1334        219       1957      0.380     0.062     0.558     
+elephant_4            7128        7848        4022        3106      3826      0.367     0.284     0.349     
+elephants             3147        6225        2357        790       3868      0.336     0.113     0.551     
+elephants_2           4109        7566        2654        1455      4912      0.294     0.161     0.545     
+gazelle               5409        8878        3381        2028      5497      0.310     0.186     0.504     
+gazelle_2             9994        6632        3421        6573      3211      0.259     0.498     0.243     
+gnu                   5534        6056        3504        2030      2552      0.433     0.251     0.316     
+gnu_2                 2301        5064        1553        748       3511      0.267     0.129     0.604     
+goat                  5972        7009        3296        2676      3713      0.340     0.276     0.383     
+goat_2                10983       6360        3327        7656      3033      0.237     0.546     0.216     
+goat_3                4061        3814        1760        2301      2054      0.288     0.376     0.336     
+goat_4                2858        4326        1794        1064      2532      0.333     0.197     0.470     
+goat_5                1200        3858        452         748       3406      0.098     0.162     0.739     
+goat_6                11286       3050        2052        9234      998       0.167     0.752     0.081     
+goat_7                9610        4641        2897        6713      1744      0.255     0.591     0.154     
+goat_8                8465        5552        2734        5731      2818      0.242     0.508     0.250     
+golfcart              7751        11409       6107        1644      5302      0.468     0.126     0.406     
+hyena                 5813        4392        3170        2643      1222      0.451     0.376     0.174     
+lions                 10119       9005        4697        5422      4308      0.326     0.376     0.299     
+rino                  1231        3414        991         240       2423      0.271     0.066     0.663     
+rino_2                15669       5694        3400        12269     2294      0.189     0.683     0.128     
+rino_3                12477       5192        3042        9435      2150      0.208     0.645     0.147     
+tiger                 4016        4773        2009        2007      2764      0.296     0.296     0.408     
+tire                  7513        9653        4660        2853      4993      0.373     0.228     0.399     
+turtle                3537        4220        1803        1734      2417      0.303     0.291     0.406     
+------------------------------------------------------------------------------------------------------------
+MOYENNE SUR 40 IMAGES :                                                       0.264     0.386     0.351     
+============================================================================================================
+
+Termine ! Verifie resultats/sobel, resultats/laplace et resultats/canny.
